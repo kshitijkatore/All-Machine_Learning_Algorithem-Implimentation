@@ -8,6 +8,7 @@ This repository contains hands-on implementations of various machine learning al
 - **02_Multiple_Regression/**: Implementation of multiple regression using economic data.
 - **03_Polynomial_Regression/**: Implementation of polynomial regression, and notebooks for handling imbalanced datasets and missing values.
 - **04_Redge_Lasso Regression/**: Implementation of Ridge, Lasso, and ElasticNet regression using the Algerian Forest Fires dataset.
+- **05_Logistic_Regression/**: Implementation of binary classification using logistic regression on a synthetic dataset.
 
 ## Requirements
 
@@ -44,6 +45,9 @@ pip install -r requirements.txt
 
 ### 04_Redge_Lasso Regression
 - `Redge, Lasso Regression.ipynb`: Implementation of Ridge, Lasso, and ElasticNet regression on the Algerian Forest Fires dataset (`Datasets/Algerian_forest_fires_dataset_UPDATE.csv`). Includes data cleaning, exploratory data analysis, model training, and evaluation.
+
+### 05_Logistic_Regression
+- `01_Binary_Classification.ipynb`: Step-by-step implementation of binary classification using logistic regression on a synthetic dataset (generated in-notebook). Includes data generation, model training, prediction, and evaluation with accuracy, confusion matrix, and classification report.
 
 ---
 
